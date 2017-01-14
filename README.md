@@ -133,3 +133,6 @@ Versions
         Adjust some accents.
 
 1.6.5 - Make italics visible on Windows.
+
+### Blah
+- This branch has fixes for Blah
