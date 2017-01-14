@@ -135,4 +135,4 @@ Versions
 1.6.5 - Make italics visible on Windows.
 
 ### Blah
-- This branch has fixes for Blah
+- This branch has fixes for Blah and the SuperBlah!
